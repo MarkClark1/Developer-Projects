@@ -1,0 +1,2 @@
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csprojAssemblyReference.cache
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csproj.CoreCompileInputs.cache

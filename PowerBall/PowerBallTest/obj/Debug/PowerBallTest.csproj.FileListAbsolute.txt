@@ -1,0 +1,14 @@
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBallTest.dll
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBallTest.pdb
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\nunit.framework.dll
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBall.exe
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBall.pdb
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBall.exe.config
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\nunit.framework.pdb
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\nunit.framework.xml
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\obj\Debug\PowerBallTest.csprojAssemblyReference.cache
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\obj\Debug\PowerBallTest.csproj.CoreCompileInputs.cache
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\obj\Debug\PowerBallTest.csproj.CopyComplete
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\obj\Debug\PowerBallTest.dll
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\obj\Debug\PowerBallTest.pdb
+C:\Users\nthny\source\repos\PowerBall\PowerBallTest\bin\Debug\PowerBallTest.dll.config

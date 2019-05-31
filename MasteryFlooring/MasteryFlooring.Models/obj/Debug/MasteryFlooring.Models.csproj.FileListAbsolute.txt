@@ -1,0 +1,6 @@
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\bin\Debug\MasteryFlooring.Models.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\bin\Debug\MasteryFlooring.Models.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\obj\Debug\MasteryFlooring.Models.csprojAssemblyReference.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\obj\Debug\MasteryFlooring.Models.csproj.CoreCompileInputs.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\obj\Debug\MasteryFlooring.Models.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Models\obj\Debug\MasteryFlooring.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\nthny\source\repos\PowerBall\PowerBall\bin\Debug\PowerBall.exe.config
+C:\Users\nthny\source\repos\PowerBall\PowerBall\bin\Debug\PowerBall.exe
+C:\Users\nthny\source\repos\PowerBall\PowerBall\bin\Debug\PowerBall.pdb
+C:\Users\nthny\source\repos\PowerBall\PowerBall\obj\Debug\PowerBall.csprojAssemblyReference.cache
+C:\Users\nthny\source\repos\PowerBall\PowerBall\obj\Debug\PowerBall.csproj.CoreCompileInputs.cache
+C:\Users\nthny\source\repos\PowerBall\PowerBall\obj\Debug\PowerBall.exe
+C:\Users\nthny\source\repos\PowerBall\PowerBall\obj\Debug\PowerBall.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\bin\Debug\PowerBall.exe.config
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\bin\Debug\PowerBall.exe
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\bin\Debug\PowerBall.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\obj\Debug\PowerBall.csprojAssemblyReference.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\obj\Debug\PowerBall.csproj.CoreCompileInputs.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\obj\Debug\PowerBall.exe
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\PowerBall\PowerBall\obj\Debug\PowerBall.pdb

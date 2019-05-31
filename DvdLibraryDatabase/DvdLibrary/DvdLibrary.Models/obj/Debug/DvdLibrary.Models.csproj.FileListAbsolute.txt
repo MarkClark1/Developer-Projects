@@ -1,0 +1,12 @@
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.dll.config
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.dll
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.pdb
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\EntityFramework.dll
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\EntityFramework.xml
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csprojAssemblyReference.cache
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.CopyComplete
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.dll
+C:\Users\nthny\source\repos\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.pdb

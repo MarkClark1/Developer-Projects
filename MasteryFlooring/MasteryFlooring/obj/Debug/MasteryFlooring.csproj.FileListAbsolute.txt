@@ -1,0 +1,16 @@
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\obj\Debug\MasteryFlooring.csprojAssemblyReference.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\obj\Debug\MasteryFlooring.csproj.CoreCompileInputs.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.exe.config
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.exe
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.BLL.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.UI.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.Models.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.Data.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.BLL.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.UI.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.Models.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\bin\Debug\MasteryFlooring.Data.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\obj\Debug\MasteryFlooring.csproj.CopyComplete
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\obj\Debug\MasteryFlooring.exe
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring\obj\Debug\MasteryFlooring.pdb

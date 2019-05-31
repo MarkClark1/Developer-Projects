@@ -1,0 +1,130 @@
+!<!DOCTYPE html>
+<html>
+<head>
+  <title>Vending Machine</title>
+  <link href="css/bootstrap.css"
+  rel="stylesheet">
+</head>
+<body>
+  <div>
+    <center><h1>Vending Machine</h1></center>
+    <hr/>
+<div class="container">
+<div class="row">
+  <div class="col-8">
+    <div class="row">
+      <div id="item-1" class="vending-machine-button col float-left px-3 border border-info rounded-lg bg-light mr-4 mb-4" onclick="pickItem(1)">
+        <h5 id="item-1-id" class="float-left">1</h5>
+        <h4 id="item-1-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-1-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-1-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-2" class="vending-machine-button col px-3 border border-info rounded-lg bg-light mb-4" onclick="pickItem(2)">
+        <h5 id="item-2-id" class="float-left ">2</h5>
+        <h4 id="item-2-name" class="text-center mt-2 mt-4 text-info">Item</h4>
+        <h4 id="item-2-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-2-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-3" class="vending-machine-button col float-right px-3 border border-info rounded-lg bg-light ml-4 mb-4" onclick="pickItem(3)">
+        <h5 id="item-3-id" class="float-left ">3</h5>
+        <h4 id="item-3-name" class="text-center mt-2 mt-4 text-info">Item</h4>
+        <h4 id="item-3-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-3-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="item-4" class="vending-machine-button col float-left px-3 border border-info rounded-lg bg-light mr-4 mb-4" onclick="pickItem(4)">
+        <h5 id="item-4-id" class="float-left ">4</h5>
+        <h4 id="item-4-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-4-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-4-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-5" class="vending-machine-button col px-3 border border-info rounded-lg bg-light mb-4" onclick="pickItem(5)">
+        <h5 id="item-5-id" class="float-left ">5</h5>
+        <h4 id="item-5-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-5-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-5-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-6" class="vending-machine-button col float-right px-3 border border-info rounded-lg bg-light ml-4 mb-4" onclick="pickItem(6)">
+        <h5 id="item-6-id" class="float-left ">6</h5>
+        <h4 id="item-6-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-6-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-6-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="item-7" class="vending-machine-button col float-left px-3 border border-info rounded-lg bg-light mr-4 mb-4" onclick="pickItem(7)">
+        <h5 id="item-7-id" class="float-left ">7</h5>
+        <h4 id="item-7-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-7-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-7-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-8" class="vending-machine-button col px-3 border border-info rounded-lg bg-light mb-4" onclick="pickItem(8)">
+        <h5 id="item-8-id" class="float-left ">8</h5>
+        <h4 id="item-8-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-8-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-8-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+      <div id="item-9" class="vending-machine-button col float-right px-3 border border-info rounded-lg bg-light ml-4 mb-4" onclick="pickItem(9)">
+        <h5 id="item-9-id" class="float-left ">9</h5>
+        <h4 id="item-9-name" class="text-center mt-4 text-info">Item</h4>
+        <h4 id="item-9-price" class="text-center mt-5 text-secondary">Price</h4>
+        <h4 id="item-9-quantity" class="text-center mt-5 mb-4 text-secondary">Quantity</h4>
+      </div>
+    </div>
+  </div>
+
+    <div class="col-4 float-right">
+      <div id="total" class="col-9">
+        <h2 class="text-center"> Total $ In</h2>
+        <form>
+          <div class="form-group">
+            <input class="form-control" id="money-input" type="text">
+          </div>
+          </form>
+          <div class="row">
+          <button type="button" id="dollar-button" class="btn btn-info col-6 mb-3" value="input-button" onclick="addMoney(1.00)">Add Dollar</button>
+          <button type="button" id="quarter-button" class="btn btn-info col-6 mb-3" value="input-button" onclick="addMoney(.25)">Add Quarter</button>
+          <button type="button" id="dime-button" class="btn btn-info col-6 mb-3" value="input-button" onclick="addMoney(.10)">Add Dime</button>
+          <button type="button" id="nickel-button" class="btn btn-info col-6 mb-3" value="input-button" onclick="addMoney(.05)">Add Nickel</button>
+          </div>
+          <hr/>
+      </div>
+
+      <div id="messages" class="col-9 float-left">
+        <h2 class="text-center">Messages</h2>
+        <form>
+          <div class="form-group">
+            <input class="form-control" id="message-display" type="text">
+          </div>
+        </form>
+        <form>
+          <div class="form-group">
+            <label for="itemdisplay">Item:</label>
+            <input class="form-control" id="item-display" type="text">
+          </div>
+        </form>
+        <button type="button" id="make-purchase" class="btn btn-info px-20" onclick="makePurchase()">Make Purchase</button>
+        <hr/>
+      </div>
+
+      <div id="change" class="col-9 float-left">
+        <h2 class="text-center">Change</h2>
+        <form>
+          <div class="form-group">
+            <input class="form-control" id="change-display" type="text">
+          </div>
+        </form>
+        <button type="button" id="change-return" class="btn btn-info" onclick="makeChange()">Change Return</button>
+      </div>
+    </div>
+</div>
+</div>
+
+  <script src='js/jquery-2.2.4.min.js'></script>
+  <script src="js/bootstrap.js"></script>
+  <script src='js/home.js'></script>
+</body>
+</html>

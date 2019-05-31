@@ -1,0 +1,13 @@
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\obj\Debug\MasteryFlooring.UI.csprojAssemblyReference.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\obj\Debug\MasteryFlooring.UI.csproj.CoreCompileInputs.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.UI.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.UI.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.BLL.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.Data.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.Models.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.BLL.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.Data.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\bin\Debug\MasteryFlooring.Models.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\obj\Debug\MasteryFlooring.UI.csproj.CopyComplete
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\obj\Debug\MasteryFlooring.UI.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.UI\obj\Debug\MasteryFlooring.UI.pdb

@@ -1,0 +1,17 @@
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\obj\Debug\MasteryFlooring.Test.csproj.CoreCompileInputs.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Test.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Test.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Data.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Models.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Data.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Models.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\obj\Debug\MasteryFlooring.Test.csprojAssemblyReference.cache
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\obj\Debug\MasteryFlooring.Test.csproj.CopyComplete
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\obj\Debug\MasteryFlooring.Test.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\obj\Debug\MasteryFlooring.Test.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\nunit.framework.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\nunit.framework.pdb
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\nunit.framework.xml
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.Test.dll.config
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.BLL.dll
+C:\Users\nthny\Documents\Bitbucket\anthony-dahl-individual-work\MasteryFlooring\MasteryFlooring.Test\bin\Debug\MasteryFlooring.BLL.pdb
